@@ -1,1 +1,1 @@
-# PatikaLINQ1
+Rastgele sayı üretip LINQ aracılığı ile istenen verileri ekrana yazdırma.
